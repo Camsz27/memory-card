@@ -11,6 +11,13 @@ import captainAmerica from '../assets/captainAmerica.jpeg';
 import thor from '../assets/thor.jpeg';
 import spiderMan from '../assets/spiderMan.jpeg';
 
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
 export const Cards = ({ set }) => {
   const ultronChar = { name: 'Ultron', src: ultron, selected: false };
   const blackPantherChar = {
@@ -42,11 +49,7 @@ export const Cards = ({ set }) => {
     thorChar,
     spiderManChar,
   ];
-  const trial = () => {
-    console.log('here');
-    set();
-    console.log(set);
-  };
+  shuffleArray(characters);
   return (
     <div className='cardContainer'>
       {characters.map((char) => (
