@@ -1,0 +1,25 @@
+.cardContainer {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.cube {
+  width: 17%;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  background-color: #2d2d2d;
+}
+
+.cube:hover {
+  background-color: red;
+  transform: scale(1.1);
+}
+
+.cardContainer img {
+  width: 100%;
+  border-radius: inherit;
+}
