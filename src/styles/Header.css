@@ -1,0 +1,15 @@
+.header {
+  text-align: center;
+  padding-top: 1.5rem;
+}
+
+.header img {
+  width: 15%;
+}
+
+.scoreboard {
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+  margin: 1rem auto;
+}
