@@ -9,6 +9,9 @@ function App() {
   const [lost, setLost] = useState(false);
   const increaseScore = () => {
     setScore(score + 1);
+    if (score === 9) {
+      lostGame();
+    }
     if (score >= bestScore) {
       setBestScore(score + 1);
     }
