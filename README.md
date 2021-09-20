@@ -1,6 +1,6 @@
 # Memory Game
 
-A memory card game that allows the user to edit the fields in the cv to match their information. Additionally with the use of the buttons the user can add more sections.
+A memory card game where the player gets points for every character they click without repeating.
 
 ## Live Demo
 
