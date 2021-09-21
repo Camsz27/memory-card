@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.51c39dc5.chunk.css",
+    "main.js": "/memory-card/static/js/main.41496440.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.41496440.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.714dd9e2.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.714dd9e2.js.map",
+    "static/js/2.d90527de.chunk.js": "/memory-card/static/js/2.d90527de.chunk.js",
+    "static/js/2.d90527de.chunk.js.map": "/memory-card/static/js/2.d90527de.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.51c39dc5.chunk.css.map": "/memory-card/static/css/main.51c39dc5.chunk.css.map",
+    "static/js/2.d90527de.chunk.js.LICENSE.txt": "/memory-card/static/js/2.d90527de.chunk.js.LICENSE.txt",
+    "static/media/blackPanther.69ef39f3.jpeg": "/memory-card/static/media/blackPanther.69ef39f3.jpeg",
+    "static/media/captainAmerica.4705d38e.jpeg": "/memory-card/static/media/captainAmerica.4705d38e.jpeg",
+    "static/media/groot.5e391b59.jpeg": "/memory-card/static/media/groot.5e391b59.jpeg",
+    "static/media/ironMan.a05d381c.jpeg": "/memory-card/static/media/ironMan.a05d381c.jpeg",
+    "static/media/logo.8b595d64.svg": "/memory-card/static/media/logo.8b595d64.svg",
+    "static/media/rocket.e17f3bf1.jpeg": "/memory-card/static/media/rocket.e17f3bf1.jpeg",
+    "static/media/spiderMan.c4d64330.jpeg": "/memory-card/static/media/spiderMan.c4d64330.jpeg",
+    "static/media/thanos.bdd2c817.jpeg": "/memory-card/static/media/thanos.bdd2c817.jpeg",
+    "static/media/thor.71b7c3d9.jpeg": "/memory-card/static/media/thor.71b7c3d9.jpeg",
+    "static/media/ultron.e166e2fd.jpeg": "/memory-card/static/media/ultron.e166e2fd.jpeg",
+    "static/media/wandaMaximoff.5ae493a0.jpeg": "/memory-card/static/media/wandaMaximoff.5ae493a0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.714dd9e2.js",
+    "static/js/2.d90527de.chunk.js",
+    "static/css/main.51c39dc5.chunk.css",
+    "static/js/main.41496440.chunk.js"
+  ]
+}
